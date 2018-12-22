@@ -36,7 +36,7 @@ private:
 	int spawnpoint[2] = { 4, 5 }; // Player's starting position
 	int playerY = spawnpoint[0]; // Player's Y position
 	int playerX = spawnpoint[1]; // Player's X position
-	char playerModel = 'P'; // Character by which the player is represented
+	char playerModel = 'P'; // Character that represents the player
 public:
 
 	// Functions
